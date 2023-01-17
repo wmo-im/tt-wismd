@@ -24,7 +24,7 @@ TT-WISMD develops and maintains the following components in support of improved 
 |Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
 |Ms Julia SEILAND|DWD|[@jsieland](https://github.com/jsieland)
 |Mr Peter SILVA |MSC|[@petersilva](https://github.com/petersilva)
-
+|Mr Kentaro TSUBOI |JMA|[@ktsuboi-jma](https://github.com/ktsuboi-jma)
 
 ## WMO Secretariat
 
