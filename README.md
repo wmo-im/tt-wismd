@@ -35,6 +35,8 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 * https://github.com/wmo-im/wcmp2
 * https://github.com/wmo-im/wis2-topic-hierarchy
 * https://github.com/wmo-im/wis2-notification-message
+* https://github.com/wmo-im/pywcmp
+
 ## Legacy repositories
 * https://github.com/wmo-im/GTStoWIS2
 * https://github.com/wmo-im/wcmp
