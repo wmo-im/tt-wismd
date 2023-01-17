@@ -30,3 +30,15 @@ TT-WISMD develops and maintains the following components in support of improved 
 
 ## Meetings
 https://github.com/wmo-im/tt-wismd/wiki/Meetings
+
+## Repositories
+* https://github.com/wmo-im/wcmp2
+* https://github.com/wmo-im/wis2-topic-hierarchy
+* https://github.com/wmo-im/wis2-notification-message
+## Legacy repositories
+* https://github.com/wmo-im/GTStoWIS2
+* https://github.com/wmo-im/wcmp
+
+
+
+
