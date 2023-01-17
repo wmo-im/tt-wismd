@@ -12,13 +12,19 @@ TT-WISMD develops and maintains the following components in support of improved 
 |---|---|---|
 |Mr Tom KRALIDIS (Lead)|MSC|[@tomkralidis](https://github.com/tomkralidis)
 |Mr Guillaume AUBERT|EUMETSAT|[@gaubert](https://github.com/gaubert)
-|Mr Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
-|Ms Hanane KAMIL|Météo Maroc|[@hananeKamil](https://github.com/hananeKamil)
-|Ms Julia SEILAND|DWD|[@jsieland](https://github.com/jsieland)
-|Ms Marta GUTIERREZ|ECMWF|[@martaguti](https://github.com/martaguti)
 |Mr Xinqiang HAN|CMA|[@Amienshxq](https://github.com/Amienshxq)
-|Mr Steve OLSON|NOAA|[@solson-nws](https://github.com/solson-nws)
+|Ms Hanane KAMIL|Météo Maroc|[@hananeKamil](https://github.com/hananeKamil)
 |Mr Ioannis MALLAS|ECMWF|[tbd](https://github.com/tbd)
+|Mr Ian MCDONALD|EUMETSAT|[@McDonald-Ian](https://github.com/McDonald-Ian)
+|Mr Steve OLSON|NOAA|[@solson-nws](https://github.com/solson-nws)
+|Mr Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
+|Mr Ren OZEKI|JMA|[@ren-ozk](https://github.com/ren-ozk)
+|Mr David PODEUR|MF|[@davidpodeur](https://github.com/davidpodeur)
+|Mr Renan RODRIGUES|INMET|
+|Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
+|Ms Julia SEILAND|DWD|[@jsieland](https://github.com/jsieland)
+|Mr Peter SILVA |MSC|[@petersilva](https://github.com/petersilva)
+
 
 ## WMO Secretariat
 
