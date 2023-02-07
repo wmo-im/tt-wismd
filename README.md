@@ -18,7 +18,6 @@ TT-WISMD develops and maintains the following components in support of improved 
 |Mr Ian MCDONALD|EUMETSAT|[@McDonald-Ian](https://github.com/McDonald-Ian)
 |Mr Steve OLSON|NOAA|[@solson-nws](https://github.com/solson-nws)
 |Mr Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
-|Mr Ren OZEKI|JMA|[@ren-ozk](https://github.com/ren-ozk)
 |Mr David PODEUR|MF|[@davidpodeur](https://github.com/davidpodeur)
 |Mr Renan RODRIGUES|INMET|
 |Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
