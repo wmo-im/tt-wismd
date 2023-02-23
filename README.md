@@ -23,7 +23,6 @@
 |Mr Steve OLSON|NOAA|[@solson-nws](https://github.com/solson-nws)
 |Mr Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
 |Mr David PODEUR|MF|[@davidpodeur](https://github.com/davidpodeur)
-|Mr Renan RODRIGUES|INMET|
 |Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
 |Ms Julia SEILAND|DWD|[@jsieland](https://github.com/jsieland)
 |Mr Kentaro TSUBOI |JMA|[@ktsuboi-jma](https://github.com/ktsuboi-jma)
