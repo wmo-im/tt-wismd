@@ -44,6 +44,12 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 - [TT-WISMD discussions on GitHub](https://github.com/wmo-im/tt-wismd/discussions)
 - [TT-WISMD chat on WMO adhoc Slack](https://wmo-cop.slack.com) (channel `#tt-wismd`)
 
+## Project Boards
+- [TT-WISMD issues from multiple repos](https://github.com/orgs/wmo-im/projects/10)
+- [WIS2 Decisions](https://github.com/orgs/wmo-im/projects/26)
+- [Issues for WIS2 Architecture](https://github.com/orgs/wmo-im/projects/17)
+
+
 ## Repositories
 * https://github.com/wmo-im/wcmp2
 * https://github.com/wmo-im/wcmp2-codelists
