@@ -41,7 +41,7 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 ## Discussions
 - TT-WISMD mailing list (`tt-wismd at groups.wmo.int`)
 - [ET-Metadata team wide discussions on GitHub](https://github.com/orgs/wmo-im/teams/et-metadata/discussions)
-- [TT-WISMD discussions on GitHub](https://github.com/orgs/wmo-im/teams/tt-wismd/discussions)
+- [TT-WISMD discussions on GitHub](https://github.com/wmo-im/tt-wismd/discussions)
 - [TT-WISMD chat on WMO adhoc Slack](https://wmo-cop.slack.com) (channel `#tt-wismd`)
 
 ## Repositories
