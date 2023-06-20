@@ -25,7 +25,6 @@
 |Mr David PODEUR|MF|[@davidpodeur](https://github.com/davidpodeur)
 |Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
 |Ms Julia SEILAND|DWD|[@jsieland](https://github.com/jsieland)
-|Mr Kentaro TSUBOI |JMA|[@ktsuboi-jma](https://github.com/ktsuboi-jma)
 
 ## WMO Secretariat
 
