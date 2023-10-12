@@ -24,7 +24,7 @@
 |Mr Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
 |Mr David PODEUR|MF|[@davidpodeur](https://github.com/davidpodeur)
 |Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
-|Ms Julia SEILAND|DWD|[@jsieland](https://github.com/jsieland)
+|Ms Julia SIELAND|DWD|[@jsieland](https://github.com/jsieland)
 
 ## WMO Secretariat
 
