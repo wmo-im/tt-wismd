@@ -6,7 +6,7 @@
 * KPIs, scoring rubric and quality assessment tools
 * tools, best practices and guidelines for WIS metadata lifecycle management
 
-[Terms of Reference](https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbCNjwreMklDmQjAmmaQlkcBlIPYG6PS0jvLsbfcSx02Fw?e=qCwS9Y)
+[Terms of Reference](https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbCNjwreMklDmQjAmmaQlkcBlIPYG6PS0jvLsbfcSx02Fw?e=qCwS9Y) _(to be updated)_
 
 ## Membership
 
@@ -39,6 +39,7 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 - [TT-WISMD chat on WMO adhoc Slack](https://wmo-cop.slack.com) (channel `#tt-wismd`)
 
 ## Project Boards
+- [Proposals for Amendments (WIS2 standards)](https://github.com/orgs/wmo-im/projects/34)
 - [TT-WISMD issues from multiple repos](https://github.com/orgs/wmo-im/projects/10)
 - [WIS2 Decisions](https://github.com/orgs/wmo-im/projects/26)
 - [Issues for WIS2 Architecture](https://github.com/orgs/wmo-im/projects/17)
