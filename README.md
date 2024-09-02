@@ -6,7 +6,7 @@
 * KPIs, scoring rubric and quality assessment tools
 * tools, best practices and guidelines for WIS metadata lifecycle management
 
-[Terms of Reference](https://wmoomm.sharepoint.com/:b:/s/wmocpdb/EbCNjwreMklDmQjAmmaQlkcBlIPYG6PS0jvLsbfcSx02Fw?e=qCwS9Y) _(to be updated)_
+[Terms of Reference](terms-of-reference.md) _(to be updated)_
 
 ## Membership
 
