@@ -7,7 +7,7 @@
 .. WMO Core Metadata Profile (WCMP2)
 .. WIS2 Notification Message (WNM)
 .. WIS2 Topic Hierarchy (WTH)
-.. WIS2 Notification and Alerting Metadata (WMAM)
+.. WIS2 Notification and Alerting Metadata (WNAM)
 . Research, recommend and advise on tools for WIS2 metadata standards
 . Provide ongoing analysis on the WIS2 Global Discovery Catalogue (GDC) in support of continuous improvement of WIS2 metadata, user experience and lowering the barrier to discovery of WMO data, products and services
 . Provide best practices on WIS2 metadata transition and implementation
