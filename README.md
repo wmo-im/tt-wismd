@@ -16,7 +16,7 @@
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
 |Guillaume AUBERT|EUMETSAT|[@gaubert](https://github.com/gaubert)
-|Lara FERREGHI|Norway|[@ferrighi](https://github.com/ferrighi)
+|Lara FERRIGHI|Norway|[@ferrighi](https://github.com/ferrighi)
 |Masato FUJIMOTO (observing member)|Japan|[@masato-f29](https://github.com/masato-f29)
 |Sylvain GRELLET|France|[@sgrellet](https://github.com/sgrellet)
 |Xinqiang HAN|China|[@Amienshxq](https://github.com/Amienshxq)
