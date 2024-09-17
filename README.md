@@ -42,10 +42,6 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 - [Proposals for Amendments (WIS2 standards)](https://github.com/orgs/wmo-im/projects/34)
 - [Fast-Track Approval Procedure](https://github.com/orgs/wmo-im/projects/25)
 
-- [TT-WISMD issues from multiple repos](https://github.com/orgs/wmo-im/projects/10)
-- [WIS2 Decisions](https://github.com/orgs/wmo-im/projects/26)
-- [Issues for WIS2 Architecture](https://github.com/orgs/wmo-im/projects/17)
-
 ## Repositories
 
 ### Standards
