@@ -47,11 +47,18 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 - [Issues for WIS2 Architecture](https://github.com/orgs/wmo-im/projects/17)
 
 ## Repositories
+
+### Standards
 * https://github.com/wmo-im/wcmp2
 * https://github.com/wmo-im/wcmp2-codelists
 * https://github.com/wmo-im/wis2-topic-hierarchy
 * https://github.com/wmo-im/wis2-notification-message
+
+### Software
 * https://github.com/wmo-im/pywcmp
+* https://github.com/wmo-im/pywis-topics
+* https://github.com/wmo-im/pywis-pubsub
+* https://github.com/wmo-im/pywiscat
 
 ## Legacy repositories
 * https://github.com/wmo-im/GTStoWIS2
