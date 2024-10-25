@@ -12,4 +12,5 @@
 . Provide ongoing analysis on the WIS2 Global Discovery Catalogue (GDC) in support of continuous improvement of WIS2 metadata, user experience and lowering the barrier to discovery of WMO data, products and services
 . Provide best practices on WIS2 metadata transition and implementation
 . Investigate and analyze the relationship of WIS2 metadata standards with WIGOS as well as other WMO metadata standards.  Evaluate the feasibility of defining common building blocks across WMO metadata standards
+. Maintain tools for WMO Codes Registry management of task team artifacts
 . Regularly report to ET-Metadata on status and progress
