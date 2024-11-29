@@ -6,7 +6,7 @@
 * KPIs, scoring rubric and quality assessment tools
 * tools, best practices and guidelines for WIS metadata lifecycle management
 
-[Terms of Reference](terms-of-reference.md) _(to be updated)_
+[Terms of Reference](https://github.com/wmo-im/et-metadata/blob/main/tt-wismd.adoc)
 
 ## Membership
 
