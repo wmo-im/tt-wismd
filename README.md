@@ -1,4 +1,6 @@
-# ![World Meteorological Organization](https://community.wmo.int/themes/custom/wmo/logo.png) WMO Task Team on WIS Metadata (TT-WISMD)
+<img alt="World Meteorological Organization" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/World_Meteorological_Organization_Logo.svg/2560px-World_Meteorological_Organization_Logo.svg.png" width="600">
+
+# Task Team on WIS Metadata (TT-WISMD)
 
 [TT-WISMD](https://community.wmo.int/governance/commission-membership/commission-observation-infrastructures-and-information-systems-infcom/commission-infrastructure-national-representatives/infcom-management-group/standing-committee-information-management-and-technology-sc-imt/expert-7)
  develops and maintains the following components in support of improved metadata and discoverability of data, products and services in the [WMO Information System (WIS)](https://community.wmo.int/activity-areas/wmo-information-system-wis) GISCs/DCPCs, as well as mass market search engines.
