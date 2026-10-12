@@ -54,7 +54,7 @@ https://github.com/wmo-im/tt-wismd/wiki/Meetings
 * https://github.com/wmo-im/pywcmp
 * https://github.com/wmo-im/pywis-topics
 * https://github.com/wmo-im/pywis-pubsub
-* https://github.com/wmo-im/pywiscat
+* https://github.com/wmo-im/pywmocat
 
 ## Legacy repositories
 * https://github.com/wmo-im/GTStoWIS2
